@@ -1,35 +1,65 @@
-🚀 ** NeoFit AI - Entrenador Personal Inteligente **
-NeoFit AI es una aplicación web de alto rendimiento diseñada para generar planes de entrenamiento y nutrición personalizados utilizando Inteligencia Artificial de última generación (Gemini 2.5 Flash). La app guía al usuario a través de un proceso de 3 pasos para capturar su perfil biomecánico y objetivos, entregando un plan estratégico detallado en aprox 10-15 segundos.
+# 🧠💪 NeoFit AI  
+### Entrenador Personal Inteligente
 
-🛠️ ** Tecnologías Utilizadas **
--Framework: Next.js 14/15 (App Router)
+**NeoFit AI** es una aplicación web de **alto rendimiento** diseñada para generar **planes de entrenamiento y nutrición personalizados** utilizando **Inteligencia Artificial de última generación** (*Gemini 2.5 Flash*).
 
--Lenguaje: TypeScript (Tipado estricto para mayor robustez)
+La aplicación guía al usuario a través de un **flujo intuitivo de 3 pasos** para capturar su perfil biomecánico y objetivos, generando un **plan estratégico completo en tan solo 10–15 segundos**.
 
--IA: Google Gemini SDK (Modelo gemini-2.5-flash)
+---
 
--Estilos: Tailwind CSS + Shadcn/UI
+## 🛠️ Tecnologías Utilizadas
 
--Formularios: React Hook Form + Zod (Validaciones de esquema)
+- **Framework:** Next.js 14/15 *(App Router)*
+- **Lenguaje:** TypeScript *(tipado estricto para mayor robustez)*
+- **Inteligencia Artificial:** Google Gemini SDK  
+  - Modelo: `gemini-2.5-flash`
+- **Estilos:** Tailwind CSS + Shadcn/UI
+- **Formularios:** React Hook Form + Zod *(validaciones por esquema)*
+- **Iconos:** Lucide React
+- **Renderizado de Texto:** React Markdown  
+  *(rutinas con formato profesional y legible)*
 
--Iconos: Lucide React
+---
 
--Procesamiento de Texto: React Markdown (Para renderizar la rutina con formato profesional)
+## ✨ Características Principales
 
-✨ ** Características Principales **
-Formulario Multietapa: Validación en tiempo real para asegurar que los datos del usuario sean precisos antes de procesar la rutina.
+### 🧩 Formulario Multietapa
+Validación en tiempo real para asegurar que los datos del usuario sean **precisos y consistentes** antes de generar la rutina.
 
-Lógica de IA Avanzada: Prompt engineering optimizado para procesar datos de edad, peso, altura, nivel de experiencia y equipo disponible.
+### 🧠 Lógica de IA Avanzada
+**Prompt engineering optimizado** para interpretar:
+- Edad
+- Peso y altura
+- Nivel de experiencia
+- Objetivos físicos
+- Equipamiento disponible
 
-Interfaz Dark Mode: Diseño moderno, minimalista y responsivo enfocado en la experiencia del usuario (UX).
+### 🌙 Interfaz Dark Mode
+Diseño **moderno, minimalista y 100% responsivo**, enfocado en una excelente experiencia de usuario *(UX)*.
 
-Generación de Contenido Estructurado: Planes detallados que incluyen ejercicios, series, repeticiones y consejos nutricionales.
+### 📋 Generación de Contenido Estructurado
+Planes detallados que incluyen:
+- Ejercicios específicos
+- Series y repeticiones
+- Distribución semanal
+- Consejos nutricionales personalizados
 
-🚀 ** Despliegue (Live Demo) **
-Podés probar la aplicación funcionando en vivo acá:
+---
 
-👉 [https://neofit-ai.netlify.app/]
+## 🚀 Despliegue (Live Demo)
 
-👤 ** Sobre mí **
+Probá la aplicación funcionando en tiempo real:
 
-LinkedIn: [https://linkedin.com/in/bruno-calogero-838795226/]
+👉 **https://neofit-ai.netlify.app/**
+
+---
+
+## 👤 Sobre mí
+
+- **LinkedIn:**  
+  👉 https://linkedin.com/in/bruno-calogero-838795226/
+
+---
+
+🔥 *NeoFit AI combina diseño, performance e inteligencia artificial para llevar el entrenamiento personal al siguiente nivel.*
+
