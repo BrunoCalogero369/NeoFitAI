@@ -11,7 +11,7 @@ export default function Home() {
       
       <p className="text-zinc-400 text-center max-w-md mb-6 text-lg leading-relaxed">
         Entrenamientos inteligentes diseñados por IA. <br className="hidden md:block" /> 
-        Tu cambio físico empieza hoy, bro.
+        Tu cambio físico empieza hoy mismo!
       </p>
 
       <div className="w-full flex justify-center animate-in fade-in slide-in-from-bottom-8 duration-700">
