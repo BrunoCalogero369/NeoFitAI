@@ -1,36 +1,33 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+🚀 NeoFit AI - Entrenador Personal Inteligente
+NeoFit AI es una aplicación web de alto rendimiento diseñada para generar planes de entrenamiento y nutrición personalizados utilizando Inteligencia Artificial de última generación (Gemini 2.5 Flash). La app guía al usuario a través de un proceso de 3 pasos para capturar su perfil biomecánico y objetivos, entregando un plan estratégico detallado en segundos.
 
-## Getting Started
+🛠️ Tecnologías Utilizadas
+Framework: Next.js 14/15 (App Router).
 
-First, run the development server:
+Lenguaje: TypeScript (Tipado estricto para mayor robustez).
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+IA: Google Gemini SDK (Modelo gemini-2.0-flash).
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Estilos: Tailwind CSS + Shadcn/UI.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Formularios: React Hook Form + Zod (Validaciones de esquema).
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Iconos: Lucide React.
 
-## Learn More
+Procesamiento de Texto: React Markdown (Para renderizar la rutina con formato profesional).
 
-To learn more about Next.js, take a look at the following resources:
+✨ Características Principales
+Formulario Multietapa: Validación en tiempo real para asegurar que los datos del usuario sean precisos antes de procesar la rutina.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Lógica de IA Avanzada: Prompt engineering optimizado para recibir datos de edad, peso, altura, nivel de experiencia y equipo disponible.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Interfaz Dark Mode: Diseño moderno, minimalista y responsivo enfocado en la experiencia del usuario (UX).
 
-## Deploy on Vercel
+Generación de Contenido Estructurado: Planes que incluyen ejercicios, series, repeticiones y consejos nutricionales.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+🚀 Despliegue (Live Demo)
+Podés probar la aplicación funcionando en vivo acá: 👉 [https://neofit-ai.netlify.app/]
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+👤 Sobre mí
+
+LinkedIn: [Bruno Calogero(https://www.linkedin.com/in/bruno-calogero-838795226/)]
